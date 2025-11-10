@@ -100,7 +100,7 @@ body {
 
 .btn-success {
     background-color: #28A745;
-    border-color: #28A45;
+    border-color: #28A745;
 }
 
 /* Modal de Detalles del Producto */
@@ -120,4 +120,5 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+
 }
